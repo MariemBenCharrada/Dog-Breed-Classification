@@ -7,6 +7,8 @@ In this project, I built a pipeline to process real-world, user-supplied images.
 
 Along with exploring state-of-the-art CNN models for classification, I made an important design decisions about the user experience for my app.
 
+## Examples of outputs of my app 
+
 ![alt text](images/dog.PNG)
 
 ![alt text](images/human.PNG)
